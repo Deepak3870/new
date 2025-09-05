@@ -8,9 +8,8 @@ const connectDb = require('./Config/db');
 
 // // CORS configuration
 const allowedOrigins = [
-    'https://increaselimit.in',
-    'https://www.increaselimit.in',
-    'https://admin.increaselimit.in',
+    'https://demo.goyattrading.shop',
+    'https://new.goyattrading.shop',
 ];
 
 app.use(cors({
